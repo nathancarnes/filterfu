@@ -1,1 +1,3 @@
 FilterFu is a WordPress plugin that utilizes htmlLawed to strip crud out of posts before rendering. It's aggressive, opinionated, and puts the smack down on Word formatting.
+
+Props to Matt Varone (http://www.mattvarone.com/wordpress/output-clean-valid-xhtml/) for outlining the basic methodology, and htmlLawed (http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/) for being a better alternative to KSES.
